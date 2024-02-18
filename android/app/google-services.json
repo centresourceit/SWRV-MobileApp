@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800973877444",
+    "project_id": "swrv-e0728",
+    "storage_bucket": "swrv-e0728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800973877444:android:c74f52471323f25dc01991",
+        "android_client_info": {
+          "package_name": "com.swerv.cs.swrv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2eYJsXk_afkBKSrCZeae2KWDiB_vsenE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

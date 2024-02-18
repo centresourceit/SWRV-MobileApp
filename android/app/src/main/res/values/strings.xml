@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SWRV</string>
+    <string name="facebook_app_id">1398677717333648</string>
+    <string name="fb_login_protocol_scheme">fb1398677717333648</string>
+    <string name="facebook_client_token">c5a00dfdf2fb2d577160070752760541</string>
+</resources>
